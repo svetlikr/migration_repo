@@ -1,0 +1,6 @@
+results/
+reports/
+archive/
+data/
+*.data
+env/

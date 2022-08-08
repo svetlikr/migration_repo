@@ -1,0 +1,88 @@
+{
+    "data": [
+        {
+            "folio_field": "legacyIdentifier",
+            "legacy_field": "RECORD #(COURSE)",
+            "value": "",
+            "description": ""
+        },
+        {
+            "folio_field": "courselisting.termId",
+            "legacy_field": "",
+            "value": "",
+            "description": "Add mapping file. BEGIN DATE and END DATE"
+        },
+        {
+            "folio_field": "courselisting.courseTypeId",
+            "legacy_field": "",
+            "value": "428ea311-c2c2-4805-a21e-1d198c7bcd58",
+            "description": ""
+        },
+        {
+            "folio_field": "courselisting.externalId",
+            "legacy_field": "",
+            "value": "11",
+            "description": ""
+        },
+        {
+            "folio_field": "courselisting.registrarId",
+            "legacy_field": "",
+            "value": "1",
+            "description": ""
+        },
+        {
+            "folio_field": "courselisting.locationId",
+            "legacy_field": "",
+            "value": "65ccd308-cd96-4590-9531-e29f7e896f80",
+            "description": ""
+        },
+        {
+            "folio_field": "course.name",
+            "legacy_field": "COURSE",
+            "value": "",
+            "description": ""
+        },
+        {
+            "folio_field": "course.departmentId",
+            "legacy_field": "",
+            "value": "be1c93e1-c840-4fc3-a399-2ee6fb68c527",
+            "description": ""
+        },
+        {
+            "folio_field": "course.description",
+            "legacy_field": "COURSE NOTE",
+            "value": "",
+            "description": ""
+        },
+        {
+            "folio_field": "instructors[0].name",
+            "legacy_field": "INSTRUCTOR",
+            "value": "",
+            "description": ""
+        },
+        {
+            "folio_field": "notes[0].domain",
+            "legacy_field": "Not mapped",
+            "value": "courses",
+            "description": ""
+        },
+        {
+            "folio_field": "notes[0].typeId",
+            "legacy_field": "",
+            "value": "5bea5cf6-d15f-4bc2-b9e1-f1631a14ab6a",
+            "description": ""
+        },
+        {
+            "folio_field": "notes[0].title",
+            "legacy_field": "",
+            "value": "Staff note",
+            "description": ""
+        },
+        {
+            "folio_field": "notes[0].content",
+            "legacy_field": "STAFF NOTE",
+            "value": "",
+            "description": ""
+        }
+    ]
+}

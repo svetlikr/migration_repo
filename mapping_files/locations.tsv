@@ -1,0 +1,6 @@
+SUB_LIBRARY	PERM_LOCATION	legacy_code	folio_code
+msl	infoOff	infoOff	InfoOff
+msl	jnlDesk	jnlDesk	JnlDesk
+*	maps	maps	maps,cd
+*	maps	cd	maps,cd
+*	*	*	maps,cd
